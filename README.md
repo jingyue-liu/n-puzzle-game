@@ -1,4 +1,4 @@
-# n-puzzle-game
+# n-puzzle game
 
 Assignment 1 for Artificial Intelligence
 
